@@ -1,2 +1,2 @@
-# binance-earn-vue2
+# SpecGen
 Created with CodeSandbox
